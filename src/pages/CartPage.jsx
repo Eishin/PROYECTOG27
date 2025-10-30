@@ -1,6 +1,6 @@
 import React from 'react';
 import { ShoppingCart, Plus, Minus, Trash2 } from 'lucide-react';
-import { Link } from '../components/Router/Link';
+import { Link } from '../router/Link';
 import { useCart } from '../contexts/CartContext';
 import { useRouter } from '../contexts/RouterContext';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Router } from './contexts/RouterContext';
 import { CartProvider } from './contexts/CartContext';
-import { Route } from './components/Router/Route';
+import { Route } from './router/Route';
 import { Navigation } from './components/Navigation';
 import { ShopPage } from './pages/ShopPage';
 import { CartPage } from './pages/CartPage';

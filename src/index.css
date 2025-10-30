@@ -1,17 +1,17 @@
 /* index.css - Archivo principal que importa todos los estilos */
 
-/* Importar Tailwind CSS (si lo usas) */
+/* Importar Tailwind CSS (si lo usas)*/ 
 @import 'tailwindcss/preflight';
 @import 'tailwindcss/utilities';
 
-/* Importar variables y tema */
-@import './variables.css';
+/* Importar variables y tema 
+@import './variables.css';*/
 
-/* Importar estilos globales */
-@import '.styles/globals.css';
+/* Importar estilos globales 
+@import './globals.css';*/
 
-/* Importar estilos de componentes (si usas CSS tradicional) */
-@import '.styles/components.css';
+/* Importar estilos de componentes (si usas CSS tradicional) 
+@import './components.css';*/
 
 /* O puedes tener todo aquí: */
 
